@@ -10,19 +10,19 @@ import {
 const Socials = () => {
   return (
     <div className="flex items-center gap-x-4 text-lg">
-      <Link href={""} className="hover:text-accent transition-all duration-300">
+      <Link href={"https://t.me/Aa_Asadbek"} className="hover:text-accent transition-all duration-300">
         <RiYoutubeLine />
       </Link>
-      <Link href={""} className="hover:text-accent transition-all duration-300">
+      <Link href={"https://t.me/Aa_Asadbek"} className="hover:text-accent transition-all duration-300">
         <RiInstagramLine />
       </Link>
-      <Link href={""} className="hover:text-accent transition-all duration-300">
+      <Link href={"https://t.me/Aa_Asadbek"} className="hover:text-accent transition-all duration-300">
         <RiBehanceLine />
       </Link>
-      <Link href={""} className="hover:text-accent transition-all duration-300">
+      <Link href={"https://t.me/Aa_Asadbek"} className="hover:text-accent transition-all duration-300">
         <RiPinterestLine />
       </Link>
-      <Link href={""} className="hover:text-accent transition-all duration-300">
+      <Link href={"https://t.me/Aa_Asadbek"} className="hover:text-accent transition-all duration-300">
         <RiDribbbleLine />
       </Link>
     </div>
